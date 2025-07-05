@@ -10,6 +10,8 @@ However, this method causes the problem of being unable to connect if the IP add
 
 This software resolves that issue. If multiple IP addresses are registered in the scope, this software is not necessary, but please consider it as a precautionary measure.
 
+Visual Basic version is also available.
+
 本ソフトは、Windowsリモートデスクトップサーバー保守ツールです。
 レジストリのrdpポート番号を引数値に変更後、Windowsを再起動しています。使用は注意してください。
 
@@ -18,8 +20,12 @@ This software resolves that issue. If multiple IP addresses are registered in th
 しかし、この方法は、接続する側のIPアドレスが変わった場合に接続できなくなる問題を起こします。
 このソフトは、その問題を解決します。スコープに複数のIPアドレスを登録している場合は、本ソフトは不要ですが予備対策として検討してください。
 
+Visual Basic版も公開しています。
+
 
 # Requirement
+
+Visual Studio 2022
 
 Please use it on a Windows machine where PHP is running. PHP is being used to remotely launch this software.
 .net framework 4.8 is specified, so please change it as appropriate.
