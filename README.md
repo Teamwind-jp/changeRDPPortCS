@@ -107,7 +107,7 @@ Set the path of this software. Use the backup port as an argument. Enter the sam
 
 本ソフトのパスを設定します。予備ポートを引数にします。開始オプションに同じパスを入力します。
 
-![changeRDPPort6](http://teamwind.serveblog.net/github/changeRDPPort/changeRDPPort6.jpg)
+![changeRDPPort6](http://teamwind.serveblog.net/github/changeRDPPort/changeRDPPortCS6.jpg)
 
 In the General tab, enter an arbitrary name and check the boxes as shown.
 
